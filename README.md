@@ -5,3 +5,5 @@
 Para ejecutar el sistema debes de correr el siguiente código:
 
 ```npm install react```
+
+Segundo registro
